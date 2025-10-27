@@ -130,3 +130,5 @@ while (bacterias2 > 50 ){
 }
 
 cat ("Numero de horas:", horas3)
+
+#HOLA
